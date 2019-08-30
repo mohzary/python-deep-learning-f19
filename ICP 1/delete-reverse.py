@@ -1,5 +1,5 @@
 # Muhammad Mohzary ICP 1
-# Python code to delete at least 2 characters and reverse the result
+# Python script to delete at least 2 characters and reverse the result
   
 # function to delete 2 characters and call the the reverse function
 def deleteFromOriginal(string):
