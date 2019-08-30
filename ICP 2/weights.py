@@ -7,7 +7,9 @@
 def convertInput(weights):
     weightskg = []
     for w in weights:
-        weightskg.append(w / 2.205)
+        t = w / 2.205
+        kgVal = round(t,2)
+        weightskg.append(kgVal)
     return(weightskg)
 
 
