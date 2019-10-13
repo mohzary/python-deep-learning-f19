@@ -11,7 +11,7 @@ scikitlearnPage = requests.get('https://scikit-learn.org/stable/modules/clusteri
 soupObj = bs(scikitlearnPage.content, "html.parser")
 
 # To create a new text file called clustring to write table content to the text file
-comparisonFile = open('clustering.txt','a') 
+comparisonFile = open('show.txt','a') 
 
 # An empty string to use later when iterate through table content
 line = ''
