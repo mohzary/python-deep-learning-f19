@@ -15,3 +15,5 @@ ICP 3 - https://github.com/mohzary/python-deep-learning-f19/tree/master/ICP%203
 ICP 4 - https://github.com/mohzary/python-deep-learning-f19/tree/master/ICP4
 
 ICP 5 - https://github.com/mohzary/python-deep-learning-f19/tree/master/ICP5
+
+Lab 1 Wiki - https://github.com/mohzary/python-deep-learning-f19/wiki/Lab-1
